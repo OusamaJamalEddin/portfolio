@@ -119,7 +119,7 @@ export default function Home() {
           {/* Contact Section */}
           <section className="bg-gray-800/90 backdrop-blur-sm rounded-2xl border border-gray-700 p-8 shadow-xl">
             <h2 className="text-2xl font-bold text-center mb-6 text-white">
-              Let's Connect
+              Let&apos;s Connect
             </h2>
             <div className="flex flex-col md:flex-row md:justify-center md:space-x-8 space-y-6 md:space-y-0 mb-8">
               <a
